@@ -1,4 +1,11 @@
-## Hi there 👋
+### Hi, I'm Brahmantio 👋
+
+👨🏻‍💻 Become a data analyst and always try new things in the field of big data</br>
+👨🏻‍🎓 Studying in the Information Technology department</br>
+📩 Let's do a project together via [email]((mailto:brahmantio25@gmail.com))</br>
+
+[![Brahmantio's GitHub stats](https://github-readme-stats.vercel.app/api?username=brahmantio&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Brahmantio/Brahmantio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
