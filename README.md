@@ -2,7 +2,7 @@
 
 👨🏻‍💻 Become a data analyst and always try new things in the field of big data</br>
 👨🏻‍🎓 Studying in the Information Technology department</br>
-📩 Let's do a project together via [email]((mailto:brahmantio25@gmail.com))</br>
+📩 Let's do a project together via [email]((mailto:brahmantio25@gmail.com)) </br>
 
 ## Social Media:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bramantiow) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/brahmantio-w/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brahmantio25@gmail.com) 
